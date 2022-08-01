@@ -3,33 +3,15 @@
 <#
 .SYNOPSIS
    Cria partição de recuperação a partir da imagem customizada do Windows
-
-.DESCRIPTION
-   .
-
-.INPUTS
-  $
-
-.OUTPUTS
-  .
-
-.NOTES
   Versão:       1.0
-  
-  Autor:        
+  Autor: Alexandre Coradi        
   Criado em:    
-  Descrição:    
-  
-.EXAMPLE
-   .ps1 
+  Descrição:  Script utilizado para criar partição de recuperação em computadores com Windows 10 UEFI  
 #>
 
 #=======================================================[Inicialização]=======================================================
 #region 0_Inicializacao
-
-
 $ScriptVersion = "1.0"
-
 #Variáveis Gerais
 $scriptname = $MyInvocation.MyCommand.Name
 if ($PSCommandPath -ne "") { $scriptPath = Split-Path -parent $PSCommandPath } else { $scriptPath = (Get-Location).Path }
