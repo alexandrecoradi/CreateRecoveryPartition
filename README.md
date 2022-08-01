@@ -16,4 +16,6 @@ Aqui alguns links para ajudar na construção.
 [Tipo de partição](https://docs.microsoft.com/pt-br/windows-hardware/customize/desktop/unattend/microsoft-windows-setup-diskconfiguration-disk-createpartitions-createpartition-type)
 
 
+# Script completo Powershell
 
+[Script Powershell Recovery Partition](https://github.com/alexandrecoradi/CreateRecoveryPartition/blob/main/RecoveryPartition.ps1)
