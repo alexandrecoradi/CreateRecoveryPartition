@@ -1,1 +1,6 @@
-# Create Recovery Partition Windows - Criar partição de recuperação do Windows
+# Create Recovery Partition on the same HDD - Criar partição de recuperação do Windows
+
+Digamos que voce tenha um cenario onde não seja possivel baixar uma imagem do Windows utilizando o WDS, SCCM, Intune em PXE devido a baixa capacidade de conectividade, como faria para recuperar um SO com Windows rapidamente? Uma solução simples sem necessidade de utilização de um WinPE, Ghost, Hirens ou Pendrive de instalação seria criar uma unidade de recuperação. Isso permite que o proprio usuário faça o processo de formatação. 
+
+Vou compartilhar por aqui um projeto rapido para isso. O deploy do scritp em Powershell pode ser realizado por SCCM ou neste caso utilizamos o Landesk nos computadores alvo. 
+
