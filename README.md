@@ -6,9 +6,7 @@ Vou compartilhar por aqui um projeto rapido para isso. O deploy do scritp em Pow
 
 # Sites de referência.
 
-Customize seu projeto de acordo com sua necessidade. 
-
-Aqui alguns links para ajudar na construção.
+Customize seu projeto de acordo com sua necessidade. Aqui alguns links para ajudar na construção.
 
 [Crie um script para identificar as partições de recuperação link](https://docs.microsoft.com/pt-br/previous-versions/windows/it-pro/windows-8.1-and-8/hh824917(v=win.10))
 
