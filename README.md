@@ -10,7 +10,10 @@ Customize seu projeto de acordo com sua necessidade.
 
 Aqui alguns links para ajudar na construção.
 
+[Crie um script para identificar as partições de recuperação link](https://docs.microsoft.com/pt-br/previous-versions/windows/it-pro/windows-8.1-and-8/hh824917(v=win.10))
 
-https://docs.microsoft.com/pt-br/previous-versions/windows/it-pro/windows-8.1-and-8/hh824917(v=win.10)
 
-https://docs.microsoft.com/pt-br/windows-hardware/customize/desktop/unattend/microsoft-windows-setup-diskconfiguration-disk-createpartitions-createpartition-type
+[Tipo de partição](https://docs.microsoft.com/pt-br/windows-hardware/customize/desktop/unattend/microsoft-windows-setup-diskconfiguration-disk-createpartitions-createpartition-type)
+
+
+
