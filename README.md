@@ -4,7 +4,6 @@ Digamos que voce tenha um cenario onde não seja possivel baixar uma imagem do W
 
 Vou compartilhar por aqui um projeto rapido para isso. O deploy do scritp em Powershell pode ser realizado por SCCM ou neste caso utilizamos o Landesk nos computadores alvo. 
 
-
 <img src="Asset/Animação.gif" width="720"/>
 
 
